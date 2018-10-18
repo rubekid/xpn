@@ -1,6 +1,6 @@
 {
   "name": "xpn",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "XPN",
   "main": "index.js",
   "scripts": {
